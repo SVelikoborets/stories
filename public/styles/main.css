@@ -1,0 +1,13 @@
+h1 {
+    background: url("/images/pushkin.png") left / auto 100% no-repeat,
+                      url("/images/pushkin.png") right / auto 100% no-repeat;
+}
+.form-link {
+    color: #fff;
+   text-decoration:none;
+}
+
+.blue-link {
+    color: #007bff;
+    text-decoration:none;
+}
